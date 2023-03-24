@@ -1,0 +1,36 @@
+.sign-form {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(131, 239, 131);
+    justify-content: center;
+  
+   
+}
+.sign-email {
+    width: 25%;
+    height: 25px;
+    cursor: pointer;
+    margin-left: 7%;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.sign-password {
+    width: 25%;
+    height: 25px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+}
+.sign-send {
+    width: 25%;
+    height: 25px;
+    margin-left: 10px;
+    color: rgb(92, 89, 89);
+    cursor: pointer;
+    background-color: rgb(220, 215, 215);
+    border: none;
+    border-radius: 10px;
+    font-family: monospace;
+}

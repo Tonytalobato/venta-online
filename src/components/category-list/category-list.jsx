@@ -1,4 +1,5 @@
 import React from "react";
+import "./category-list.css";
 import CategoryItems from '../category-items/category-items';
 
 const CategoryList = ({categories}) => {
